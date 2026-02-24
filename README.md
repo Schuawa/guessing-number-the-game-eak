@@ -7,7 +7,7 @@ Features:
 - Random number generator
 - Tracks attempts
 - Win / lose system
-  Bug:
+Bug:
 - cant save wins
 Built with Python.
 Author: Shua
